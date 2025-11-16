@@ -1,0 +1,194 @@
+STORYMECHA - REQUIREMENTS
+
+Bare Minimum Components Needed to Run on Laptop
+
+
+OPERATING SYSTEM
+
+- Windows 10/11 (64-bit)
+- macOS 10.14+
+- Linux (Ubuntu 20.04+, Debian 11+, or Fedora 35+)
+
+
+
+HARDWARE MINIMUM
+
+- Processor: Intel i5 (4 cores) or AMD Ryzen 5
+- RAM: 8 GB
+- Storage: 5 GB free space (for model + dependencies)
+- Network: Internet connection (for ConceptNet API)
+
+
+
+PROGRAMMING LANGUAGE & RUNTIME
+
+- Python 3.8, 3.9, 3.10, or 3.11
+
+
+
+REQUIRED PYTHON LIBRARIES
+
+
+Web Framework:
+  - Flask 2.3.2
+  - flask-cors 4.0.0
+
+Deep Learning & LLM:
+  - torch 2.0.1
+  - transformers 4.30.2
+  - accelerate 0.20.3
+
+Utilities:
+  - requests 2.31.0
+  - sentencepiece 0.1.99
+  - protobuf 4.23.3
+
+
+
+EXTERNAL SERVICES & APIs
+
+- ConceptNet 5 API (http://api.conceptnet.io)
+  * No authentication required
+  * Public API access
+  * Used for knowledge graph relationships
+
+
+
+FRONTEND REQUIREMENTS
+
+Web Browser (any modern version):
+  - Chrome 90+
+  - Firefox 88+
+  - Safari 14+
+  - Edge 90+
+
+Frontend Libraries (auto-served):
+  - Cytoscape.js 3.23+ (for graph visualization)
+  - HTML5/CSS3/JavaScript
+
+
+
+DATABASE
+
+Storage: JSON files (no database installation needed)
+  - stories.json (session storage)
+  - conceptnet_cache.json (API cache)
+
+
+
+LANGUAGE MODEL
+
+TinyLlama-1.1B-Chat-v1.0
+  - Size: 2.2 GB
+  - Downloaded automatically via: python down.py
+  - Cached locally after first download
+
+
+
+INSTALLATION STEPS (Quick)
+
+
+1. Install Python 3.8-3.11
+   Download from: https://www.python.org/downloads/
+
+2. Clone/Download Project
+   git clone <repository-url>
+   cd storymecha
+
+3. Create Virtual Environment
+   python -m venv venv
+   source venv/bin/activate    # Linux/Mac
+   venv\Scripts\activate       # Windows
+
+4. Install Dependencies
+   pip install -r requirements.txt
+
+5. Download LLM Model (one-time, ~2.2 GB)
+   python down.py
+
+6. Start Server
+   python server_with_physics.py
+
+7. Open Browser
+   http://localhost:5000
+
+
+
+FILE STRUCTURE
+
+
+storymecha/
+├── server_with_physics.py       # Main server
+├── physics_validator.py          # Physics detection
+├── llm_reasoner.py              # LLM inference
+├── context_builder.py           # Prompt building
+├── graph_queries.py             # Graph utilities
+├── down.py                      # Model downloader
+├── index.html                   # Frontend UI
+├── requirements.txt             # Dependencies
+├── stories.json                 # Session storage
+└── conceptnet_cache.json        # Cache
+
+
+
+PORT REQUIREMENT
+
+- Port 5000 (Flask server)
+  * Ensure port 5000 is not in use
+  * Can be changed in server_with_physics.py (PORT = 5000)
+
+
+
+INTERNET CONNECTION
+
+- Required for:
+  * ConceptNet API calls (knowledge relationships)
+  * Model download (first-time only)
+  * HuggingFace Hub access (model hosting)
+
+- Not required for:
+  * Story analysis after initial setup
+  * Local LLM inference
+  * Knowledge graph visualization
+
+
+
+requirements.txt CONTENT
+
+
+flask==2.3.2
+flask-cors==4.0.0
+requests==2.31.0
+transformers==4.30.2
+torch==2.0.1
+accelerate==0.20.3
+sentencepiece==0.1.99
+protobuf==4.23.3
+
+
+
+VERIFICATION CHECKLIST
+
+
+Before running, verify:
+[ ] Python version is 3.8-3.11
+[ ] Virtual environment activated
+[ ] All packages installed (pip show <package-name>)
+[ ] 2.2GB disk space available for model
+[ ] Port 5000 is free or reconfigured
+[ ] Internet connection available
+
+
+
+STARTUP COMMAND
+
+
+python server_with_physics.py
+
+Expected output:
+  Loading TinyLlama-1.1B-Chat-v1.0...
+  Model loaded successfully!
+  Running on http://127.0.0.1:5000
+
+Then open http://localhost:5000 in browser
+

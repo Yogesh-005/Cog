@@ -1,7 +1,7 @@
 {
   "session_1761384968533": {
     "id": "session_1761384968533",
-    "name": "Final",
+    "name": "Final 0",
     "created": "2025-10-25T15:06:08.533812",
     "messages": [
       {
@@ -1912,6 +1912,1184 @@
         "related_concepts": 34,
         "total_edges": 35,
         "depth": 2
+      }
+    },
+    "metadata": {
+      "concepts": [
+        "sir",
+        "arthur",
+        "dragon",
+        "village",
+        "knight",
+        "attacked",
+        "grabbed"
+      ],
+      "categorized": {
+        "entities": [
+          "sir",
+          "arthur"
+        ],
+        "themes": [],
+        "objects": [
+          "dragon",
+          "village",
+          "knight",
+          "attacked",
+          "grabbed"
+        ]
+      },
+      "cultural_context": {
+        "dominant_culture": "Western/Eastern Mythology",
+        "markers": [
+          {
+            "concept": "dragon",
+            "culture": "Western/Eastern Mythology"
+          },
+          {
+            "concept": "knight",
+            "culture": "Western Medieval"
+          }
+        ]
+      },
+      "graph_stats": {
+        "total_nodes": 41,
+        "main_concepts": 7,
+        "related_concepts": 34,
+        "total_edges": 35,
+        "depth": 2
+      },
+      "analyzed": true
+    }
+  },
+  "session_1763286317148": {
+    "id": "session_1763286317148",
+    "name": "Final 1(Including physics laws)",
+    "created": "2025-11-16T15:15:17.148580",
+    "messages": [
+      {
+        "role": "user",
+        "content": "The valley suddenly took a deep breath, shivered, and flew upward into the sky, leaving the mountain confused and alone on the ground.",
+        "timestamp": "2025-11-16T15:17:11.584104"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3 style='color: #e74c3c;'>\u26a0\ufe0f Physics Validation: VIOLATIONS DETECTED</h3>\n<h3 style='color: #e74c3c;'>\u26a0\ufe0f Physics Violations Detected: 1</h3>\n<p>The following violations of fundamental physics laws were found:</p>\n<h4 style='color: #e67e22;'>Gravity Violations (1 violation)</h4>\n<ul>\n<li>\n<strong>Upward motion without apparent force or mechanism</strong><br/>\n<em>Matched text:</em> \"flew upward\"<br/>\n<em>Context:</em> <span style='background: #fff3cd; padding: 2px 4px;'>...valley suddenly took a deep breath, shivered, and flew upward into the sky, leaving the mountain confused and a...</span>\n</li>\n</ul>\n<hr/>\n<h3>Concept Analysis Complete \u2705</h3>\n<strong>Key Objects / Concepts:</strong>\n<ul><li>Suddenly</li><li>Shivered</li><li>Leaving</li><li>Mountain</li><li>Confused</li><li>Valley</li><li>Took</li></ul>\n<p><strong>Cultural Context:</strong> Universal</p>\n<p><strong>Knowledge Graph:</strong> 7 nodes, 0 relationships, depth 1.</p>",
+        "timestamp": "2025-11-16T15:17:17.727138",
+        "concepts": [
+          "suddenly",
+          "shivered",
+          "leaving",
+          "mountain",
+          "confused",
+          "valley",
+          "took"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Ravi dropped his pen, but instead of falling down, it shot upward, crashed \ninto the ceiling, and stayed stuck there like a magnet.",
+        "timestamp": "2025-11-16T15:19:57.764593"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>The valley suddenly took a deep breath, shivered, and flew upward into the sky, leaving the mountain confused and alone on the ground. Suddenly, the mountain was caught between two forces - one strong enough to lift it up, while the other pushed it back down again. The mountain had become a \"valley\" in itself, shifting and changing as it rose higher and higher. The sudden \"shivering\" and \"leaving\" of the mountain were caused by its efforts to stay aloft, where it remained until it finally reached the summit, where it became a \"mountain\" once more. This shift in the valley created an \"upward\" force that lifted the mountain away from the \"valley\", which left the mountain confused and alone on the ground. This story demonstrates the concept of \"confusion\" and \"alone\" through the actions of the mountain, which was initially confused and then acted upon by its own forces. It shows how humans can create complex situations by acting upon their environment.</p>",
+        "timestamp": "2025-11-16T15:19:57.764593",
+        "concepts_referenced": []
+      }
+    ],
+    "story_text": "The valley suddenly took a deep breath, shivered, and flew upward into the sky, leaving the mountain confused and alone on the ground.",
+    "graph_data": {
+      "nodes": [
+        {
+          "id": "suddenly",
+          "label": "Suddenly",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "shivered",
+          "label": "Shivered",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "leaving",
+          "label": "Leaving",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "mountain",
+          "label": "Mountain",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "confused",
+          "label": "Confused",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "valley",
+          "label": "Valley",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "took",
+          "label": "Took",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        }
+      ],
+      "edges": [],
+      "stats": {
+        "total_nodes": 7,
+        "main_concepts": 7,
+        "related_concepts": 0,
+        "total_edges": 0,
+        "depth": 1
+      }
+    },
+    "physics_validation": {
+      "is_valid": false,
+      "report_html": "<h3 style='color: #e74c3c;'>\u26a0\ufe0f Physics Violations Detected: 1</h3>\n<p>The following violations of fundamental physics laws were found:</p>\n<h4 style='color: #e67e22;'>Gravity Violations (1 violation)</h4>\n<ul>\n<li>\n<strong>Upward motion without apparent force or mechanism</strong><br/>\n<em>Matched text:</em> \"flew upward\"<br/>\n<em>Context:</em> <span style='background: #fff3cd; padding: 2px 4px;'>...valley suddenly took a deep breath, shivered, and flew upward into the sky, leaving the mountain confused and a...</span>\n</li>\n</ul>",
+      "violations": {
+        "has_violations": true,
+        "total_violations": 1,
+        "violations_by_category": {
+          "Gravity Violations": [
+            {
+              "category": "Gravity Violations",
+              "description": "Upward motion without apparent force or mechanism",
+              "matched_text": "flew upward",
+              "position": [
+                54,
+                65
+              ],
+              "context": "...valley suddenly took a deep breath, shivered, and flew upward into the sky, leaving the mountain confused and a..."
+            }
+          ]
+        },
+        "all_violations": [
+          {
+            "category": "Gravity Violations",
+            "description": "Upward motion without apparent force or mechanism",
+            "matched_text": "flew upward",
+            "position": [
+              54,
+              65
+            ],
+            "context": "...valley suddenly took a deep breath, shivered, and flew upward into the sky, leaving the mountain confused and a..."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "concepts": [
+        "suddenly",
+        "shivered",
+        "leaving",
+        "mountain",
+        "confused",
+        "valley",
+        "took"
+      ],
+      "categorized": {
+        "entities": [],
+        "themes": [],
+        "objects": [
+          "suddenly",
+          "shivered",
+          "leaving",
+          "mountain",
+          "confused",
+          "valley",
+          "took"
+        ]
+      },
+      "cultural_context": {
+        "dominant_culture": "Universal",
+        "markers": []
+      },
+      "graph_stats": {
+        "total_nodes": 7,
+        "main_concepts": 7,
+        "related_concepts": 0,
+        "total_edges": 0,
+        "depth": 1
+      },
+      "analyzed": true
+    }
+  },
+  "session_1763286696621": {
+    "id": "session_1763286696621",
+    "name": "Final 2",
+    "created": "2025-11-16T15:21:36.621042",
+    "messages": [
+      {
+        "role": "user",
+        "content": "A brave knight flew upward into the sky without any wings. He grabbed his sword which appeared from nowhere and defeated the dragon. The dragon \nvanished without a trace.",
+        "timestamp": "2025-11-16T15:21:46.504545"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3 style='color: #e74c3c;'>\u26a0\ufe0f Physics Validation: VIOLATIONS DETECTED</h3>\n<h3 style='color: #e74c3c;'>\u26a0\ufe0f Physics Violations Detected: 2</h3>\n<p>The following violations of fundamental physics laws were found:</p>\n<h4 style='color: #e67e22;'>Gravity Violations (1 violation)</h4>\n<ul>\n<li>\n<strong>Upward motion without apparent force or mechanism</strong><br/>\n<em>Matched text:</em> \"flew upward\"<br/>\n<em>Context:</em> <span style='background: #fff3cd; padding: 2px 4px;'>A brave knight flew upward into the sky without any wings. He grabbed his sw...</span>\n</li>\n</ul>\n<h4 style='color: #e67e22;'>Conservation of Mass Violations (1 violation)</h4>\n<ul>\n<li>\n<strong>Matter disappearing without explanation</strong><br/>\n<em>Matched text:</em> \"vanished without\"<br/>\n<em>Context:</em> <span style='background: #fff3cd; padding: 2px 4px;'>...from nowhere and defeated the dragon. The dragon \nvanished without a trace.</span>\n</li>\n</ul>\n<hr/>\n<h3>Concept Analysis Complete \u2705</h3>\n<strong>Key Objects / Concepts:</strong>\n<ul><li>Without</li><li>Grabbed</li><li>Appeared</li><li>Nowhere</li><li>Defeated</li><li>Dragon</li><li>Vanished</li></ul>\n<p><strong>Cultural Context:</strong> Western/Eastern Mythology</p>\n<p><strong>Knowledge Graph:</strong> 17 nodes, 10 relationships, depth 2.</p>\n<p>Use the <em>Knowledge Graph</em> tab to explore connections visually. You can now ask me questions about the story!</p>",
+        "timestamp": "2025-11-16T15:21:48.561375",
+        "concepts": [
+          "without",
+          "grabbed",
+          "appeared",
+          "nowhere",
+          "defeated",
+          "dragon",
+          "vanished"
+        ]
+      }
+    ],
+    "story_text": "A brave knight flew upward into the sky without any wings. He grabbed his sword which appeared from nowhere and defeated the dragon. The dragon \nvanished without a trace.",
+    "graph_data": {
+      "nodes": [
+        {
+          "id": "without",
+          "label": "Without",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grabbed",
+          "label": "Grabbed",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "appeared",
+          "label": "Appeared",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "nowhere",
+          "label": "Nowhere",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "defeated",
+          "label": "Defeated",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "dragon",
+          "label": "Dragon",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Western/Eastern Mythology"
+        },
+        {
+          "id": "vanished",
+          "label": "Vanished",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grab",
+          "label": "grab",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "prehensus",
+          "label": "prehensus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "chickenhead",
+          "label": "chickenhead",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "rapiendus",
+          "label": "rapiendus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_dragon",
+          "label": "A dragon",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythical_beast",
+          "label": "a mythical beast",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "breathe_fire",
+          "label": "breathe fire",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythological_reptilian_monster",
+          "label": "a mythological reptilian monster",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "stw\u00f3r",
+          "label": "stw\u00f3r",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "hetera",
+          "label": "hetera",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        }
+      ],
+      "edges": [
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "FormOf",
+          "weight": 1.0
+        },
+        {
+          "source": "prehensus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "chickenhead",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "rapiendus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythical_beast",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "breathe_fire",
+          "label": "CapableOf",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythological_reptilian_monster",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "stw\u00f3r",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "hetera",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        }
+      ],
+      "stats": {
+        "total_nodes": 17,
+        "main_concepts": 7,
+        "related_concepts": 10,
+        "total_edges": 10,
+        "depth": 2
+      }
+    },
+    "physics_validation": {
+      "is_valid": false,
+      "report_html": "<h3 style='color: #e74c3c;'>\u26a0\ufe0f Physics Violations Detected: 2</h3>\n<p>The following violations of fundamental physics laws were found:</p>\n<h4 style='color: #e67e22;'>Gravity Violations (1 violation)</h4>\n<ul>\n<li>\n<strong>Upward motion without apparent force or mechanism</strong><br/>\n<em>Matched text:</em> \"flew upward\"<br/>\n<em>Context:</em> <span style='background: #fff3cd; padding: 2px 4px;'>A brave knight flew upward into the sky without any wings. He grabbed his sw...</span>\n</li>\n</ul>\n<h4 style='color: #e67e22;'>Conservation of Mass Violations (1 violation)</h4>\n<ul>\n<li>\n<strong>Matter disappearing without explanation</strong><br/>\n<em>Matched text:</em> \"vanished without\"<br/>\n<em>Context:</em> <span style='background: #fff3cd; padding: 2px 4px;'>...from nowhere and defeated the dragon. The dragon \nvanished without a trace.</span>\n</li>\n</ul>",
+      "violations": {
+        "has_violations": true,
+        "total_violations": 2,
+        "violations_by_category": {
+          "Gravity Violations": [
+            {
+              "category": "Gravity Violations",
+              "description": "Upward motion without apparent force or mechanism",
+              "matched_text": "flew upward",
+              "position": [
+                15,
+                26
+              ],
+              "context": "A brave knight flew upward into the sky without any wings. He grabbed his sw..."
+            }
+          ],
+          "Conservation of Mass Violations": [
+            {
+              "category": "Conservation of Mass Violations",
+              "description": "Matter disappearing without explanation",
+              "matched_text": "vanished without",
+              "position": [
+                145,
+                161
+              ],
+              "context": "...from nowhere and defeated the dragon. The dragon \nvanished without a trace."
+            }
+          ]
+        },
+        "all_violations": [
+          {
+            "category": "Gravity Violations",
+            "description": "Upward motion without apparent force or mechanism",
+            "matched_text": "flew upward",
+            "position": [
+              15,
+              26
+            ],
+            "context": "A brave knight flew upward into the sky without any wings. He grabbed his sw..."
+          },
+          {
+            "category": "Conservation of Mass Violations",
+            "description": "Matter disappearing without explanation",
+            "matched_text": "vanished without",
+            "position": [
+              145,
+              161
+            ],
+            "context": "...from nowhere and defeated the dragon. The dragon \nvanished without a trace."
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "concepts": [
+        "without",
+        "grabbed",
+        "appeared",
+        "nowhere",
+        "defeated",
+        "dragon",
+        "vanished"
+      ],
+      "categorized": {
+        "entities": [],
+        "themes": [],
+        "objects": [
+          "without",
+          "grabbed",
+          "appeared",
+          "nowhere",
+          "defeated",
+          "dragon",
+          "vanished"
+        ]
+      },
+      "cultural_context": {
+        "dominant_culture": "Western/Eastern Mythology",
+        "markers": [
+          {
+            "concept": "dragon",
+            "culture": "Western/Eastern Mythology"
+          }
+        ]
+      },
+      "graph_stats": {
+        "total_nodes": 17,
+        "main_concepts": 7,
+        "related_concepts": 10,
+        "total_edges": 10,
+        "depth": 2
+      },
+      "analyzed": true
+    }
+  },
+  "session_1763286714768": {
+    "id": "session_1763286714768",
+    "name": "Final 3",
+    "created": "2025-11-16T15:21:54.768452",
+    "messages": [
+      {
+        "role": "user",
+        "content": "A brave knight named Sir Arthur lived in a grand castle. One day, a fierce dragon attacked the nearby village. Sir Arthur grabbed his enchanted sword and rode his horse to fight the dragon. After an epic battle, the knight defeated the dragon and saved the village.",
+        "timestamp": "2025-11-16T15:23:53.537490"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3 style='color: #2ecc71;'>\u2705 Physics Validation: PASSED</h3>\n<p>Story follows known physical laws.</p>\n<h3>Concept Analysis Complete \u2705</h3>\n<strong>Main Entities:</strong>\n<ul><li>Sir</li><li>Arthur</li></ul>\n<strong>Key Objects / Concepts:</strong>\n<ul><li>Dragon</li><li>Village</li><li>Knight</li><li>Attacked</li><li>Grabbed</li></ul>\n<p><strong>Cultural Context:</strong> Western/Eastern Mythology</p>\n<p><strong>Knowledge Graph:</strong> 41 nodes, 35 relationships, depth 2.</p>\n<p>Use the <em>Knowledge Graph</em> tab to explore connections visually. You can now ask me questions about the story!</p>",
+        "timestamp": "2025-11-16T15:23:53.542371",
+        "concepts": [
+          "sir",
+          "arthur",
+          "dragon",
+          "village",
+          "knight",
+          "attacked",
+          "grabbed"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "What happens after the dragon is defeated?",
+        "timestamp": "2025-11-16T15:25:51.641738"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>After the dragon was defeated, Sir Arthur continued to protect the village by raiding the nearby enemy lands. The villagers were grateful for his bravery and protection, and he became a local hero. The villagers also started calling him \"Sir Arthur,\" which led to the confusion between his name and his title as the king of the kingdom. However, Sir Arthur remained unconcerned and continued to protect his village and the people living there. He was also rumored to be dating one of the local maidens, who accepted his proposal but declined due to their social status. Despite this, Sir Arthur continued to live a contented life, surrounded by his loved ones.</p><p><small><em>Referenced concepts: Dragon</em></small></p>",
+        "timestamp": "2025-11-16T15:25:51.641738",
+        "concepts_referenced": [
+          "dragon"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "tell the story in indian style",
+        "timestamp": "2025-11-16T15:26:07.010895"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>Indian Cultural Style Retelling: Once upon a time, there was a mighty kingdom ruled by an exalted king called Rama. His kingdom was known for its grandeur, wealth, and power. It was a place where people came from all corners of the world to seek refuge and protection. One day, a terrible dragon appeared in the kingdom. Its scales were made of fire and its eyes glowed with an eerie light. The dragon had been terrorizing villages for years and had destroyed countless homes and livelihoods. Rama heard the news and immediately sent his army to fight the dragon. The king assembled his best warriors and ordered them to take up their shields and swords. They marched towards the enemy's lair, ready to defend their lands and families. As they approached the dragon's lair, they saw that it was guarded by a mighty monster. Rama led his army forward, brandishing his sword in front of them. The monster snarled and hissed, but Rama remained calm and composed. He raised his sword high and swung it downwards, piercing through the monster's armor with ease. The dragon let out a screech and fled into the forest, leaving behind destruction and devastation in its wake. Rama was hailed as a hero for his bravery and selflessness. People from all over the land came to see him and offer their thanks. The king rewarded Rama handsomely and appointed him as the head of the kingdom's military forces. Rama spent the rest of his reign fighting against other dragons and other monsters, always ready to protect his people and keep them safe. Years later, when Rama passed away, the kingdom mourned his loss deeply. But the people knew that he had.</p>",
+        "timestamp": "2025-11-16T15:26:07.010895",
+        "concepts_referenced": []
+      },
+      {
+        "role": "user",
+        "content": "Who is the princess?",
+        "timestamp": "2025-11-16T15:28:37.719444"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>In the story of \"A brave knight named Sir Arthur fought against a fierce dragon that destroyed a village,\" Sir Arthur grabbed his enchanted sword and rode his horse to defeat the dragon. The protagonist, Sir Arthur, was a brave knight who had been tasked with defeating the dragon, which had caused great destruction in the village. The dragon was a fierce and powerful creature, capable of breathing fire, making it a formidable opponent. Sir Arthur used his enchanted sword to cut through the dragon's armor, causing it to retreat. The village was safe once again, thanks to Sir Arthur's bravery and skill as a warrior. The story ends with Sir Arthur returning home, victorious and celebrated by his peers.\n\nKnowledge Graph:\nMain Story Concepts:\n  - Sir\n  - Arthur\n  - Dragon\n  - Village\n  - Knight\n  - Attacked\n  - Grabbed\n\nConcept Relationships:\n  \u2022 Sir --[Synonym]--> Sir\n  \u2022 Sir --[Synonym]--> Sir\n  \u2022 Sir --[Synonym]--> Sir\n  \u2022 encik --[Synonym]--> Sir\n  \u2022 encik --[Synonym]--> Sir\n  \u2022 Arthur --[Synonym]--> King Arthur\n  \u2022 Arthur --[Syn.</p>",
+        "timestamp": "2025-11-16T15:28:37.719444",
+        "concepts_referenced": []
+      }
+    ],
+    "story_text": "A brave knight named Sir Arthur lived in a grand castle. One day, a fierce dragon attacked the nearby village. Sir Arthur grabbed his enchanted sword and rode his horse to fight the dragon. After an epic battle, the knight defeated the dragon and saved the village.",
+    "graph_data": {
+      "nodes": [
+        {
+          "id": "sir",
+          "label": "Sir",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arthur",
+          "label": "Arthur",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "dragon",
+          "label": "Dragon",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Western/Eastern Mythology"
+        },
+        {
+          "id": "village",
+          "label": "Village",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "knight",
+          "label": "Knight",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Western Medieval"
+        },
+        {
+          "id": "attacked",
+          "label": "Attacked",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grabbed",
+          "label": "Grabbed",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "encik",
+          "label": "encik",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "king_arthur",
+          "label": "King Arthur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "chester_alan_arthur",
+          "label": "Chester Alan Arthur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arzur",
+          "label": "arzur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "label": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arthuriana",
+          "label": "arthuriana",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_dragon",
+          "label": "A dragon",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythical_beast",
+          "label": "a mythical beast",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "breathe_fire",
+          "label": "breathe fire",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythological_reptilian_monster",
+          "label": "a mythological reptilian monster",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "stw\u00f3r",
+          "label": "stw\u00f3r",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "hetera",
+          "label": "hetera",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_village",
+          "label": "a village",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "africa",
+          "label": "africa",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_town",
+          "label": "a town",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_countryside",
+          "label": "a countryside",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "town",
+          "label": "town",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "borgata",
+          "label": "borgata",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_knight",
+          "label": "A knight",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "ride_a_horse",
+          "label": "ride a horse",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "jousting",
+          "label": "Jousting",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_castle",
+          "label": "a castle",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_chess_set",
+          "label": "a chess set",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_historical_novel",
+          "label": "a historical novel",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "dimicatus",
+          "label": "dimicatus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "are_attacked",
+          "label": "are attacked",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "fight_back",
+          "label": "fight back",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "unattackable",
+          "label": "unattackable",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "incursatus",
+          "label": "incursatus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "aggressus",
+          "label": "aggressus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grab",
+          "label": "grab",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "prehensus",
+          "label": "prehensus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "chickenhead",
+          "label": "chickenhead",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "rapiendus",
+          "label": "rapiendus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        }
+      ],
+      "edges": [
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "encik",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "encik",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "arthur",
+          "target": "king_arthur",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "arthur",
+          "target": "chester_alan_arthur",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "arthur",
+          "target": "arzur",
+          "label": "Synonym",
+          "weight": 1.0
+        },
+        {
+          "source": "arthur",
+          "target": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "label": "Synonym",
+          "weight": 1.0
+        },
+        {
+          "source": "arthuriana",
+          "target": "arthur",
+          "label": "DerivedFrom",
+          "weight": 1.0
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythical_beast",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "breathe_fire",
+          "label": "CapableOf",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythological_reptilian_monster",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "stw\u00f3r",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "hetera",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "a_village",
+          "target": "africa",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_village",
+          "target": "a_town",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_village",
+          "target": "a_countryside",
+          "label": "AtLocation",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "village",
+          "target": "town",
+          "label": "RelatedTo",
+          "weight": 2.1918029108475974
+        },
+        {
+          "source": "borgata",
+          "target": "village",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "a_knight",
+          "target": "ride_a_horse",
+          "label": "CapableOf",
+          "weight": 5.291502622129181
+        },
+        {
+          "source": "a_knight",
+          "target": "jousting",
+          "label": "UsedFor",
+          "weight": 4.47213595499958
+        },
+        {
+          "source": "a_knight",
+          "target": "a_castle",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_knight",
+          "target": "a_chess_set",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_knight",
+          "target": "a_historical_novel",
+          "label": "AtLocation",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "dimicatus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "are_attacked",
+          "target": "fight_back",
+          "label": "HasSubevent",
+          "weight": 1.0
+        },
+        {
+          "source": "unattackable",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "incursatus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "aggressus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "FormOf",
+          "weight": 1.0
+        },
+        {
+          "source": "prehensus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "chickenhead",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "rapiendus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        }
+      ],
+      "stats": {
+        "total_nodes": 41,
+        "main_concepts": 7,
+        "related_concepts": 34,
+        "total_edges": 35,
+        "depth": 2
+      }
+    },
+    "physics_validation": {
+      "is_valid": true,
+      "report_html": "<p style='color: #2ecc71;'>\u2705 <strong>No physics violations detected!</strong> Story follows known physical laws.</p>",
+      "violations": {
+        "has_violations": false,
+        "total_violations": 0,
+        "violations_by_category": {},
+        "all_violations": []
       }
     },
     "metadata": {
