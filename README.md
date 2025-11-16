@@ -370,7 +370,7 @@ To extend the system:
 
 ## License
 
-[Specify License]
+MIT License
 
 ## Acknowledgments
 
@@ -379,25 +379,7 @@ To extend the system:
 - PyTorch team for deep learning framework
 - Open-source contributors and community
 
-## Contact & Support
 
-- Issue Tracker: [GitHub Issues URL]
-- Email: [Contact Email]
-- Repository: [GitHub Repository URL]
-- Documentation: See attached system requirements and condensed presentation
-
-## Citation
-
-If you use StoryMecha in your research or project, please cite:
-
-```
-StoryMecha: An AI-Powered Story Analysis System with Physics Violation Detection
-Version 2.0 (Physics-Enhanced Edition)
-[Author Name(s)]
-[Year]
-```
-
----
 
 **Status**: Local Development  
 **Version**: 2.0 (Physics-Enhanced)  
