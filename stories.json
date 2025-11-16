@@ -1,0 +1,1964 @@
+{
+  "session_1761384968533": {
+    "id": "session_1761384968533",
+    "name": "Final",
+    "created": "2025-10-25T15:06:08.533812",
+    "messages": [
+      {
+        "role": "user",
+        "content": "A brave knight named Sir Arthur lived in a grand castle. One day, a fierce dragon attacked the nearby village. Sir Arthur grabbed his enchanted sword and rode his horse to fight the dragon. After an epic battle, the knight defeated the dragon and saved the village.",
+        "timestamp": "2025-10-25T15:06:46.068491"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Analysis Complete \u2705</h3>\n<strong>Main Entities:</strong>\n<ul><li>Sir</li><li>Arthur</li></ul>\n<strong>Key Objects / Concepts:</strong>\n<ul><li>Dragon</li><li>Village</li><li>Knight</li><li>Attacked</li><li>Grabbed</li></ul>\n<p><strong>Cultural Context:</strong> Western/Eastern Mythology</p>\n<p><strong>Knowledge Graph:</strong> 41 nodes, 35 relationships, depth 2.</p>\n<p>Use the <em>Knowledge Graph</em> tab to explore connections visually. You can now ask me questions about the story!</p>",
+        "timestamp": "2025-10-25T15:06:46.072211",
+        "concepts": [
+          "sir",
+          "arthur",
+          "dragon",
+          "village",
+          "knight",
+          "attacked",
+          "grabbed"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "tell the story in Indian style",
+        "timestamp": "2025-10-25T15:08:35.842060"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>I apologize, but the response was generated in a non-English language. Please try asking the question again. The response should be in English only.</p>",
+        "timestamp": "2025-10-25T15:08:35.842060",
+        "concepts_referenced": []
+      },
+      {
+        "role": "user",
+        "content": "tell the story in Japanese style",
+        "timestamp": "2025-10-25T15:10:15.788604"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>In ancient times, there was a kingdom nestled deep within the mountains. Its people were known for their strength, wisdom, and honor, and they lived peacefully among the natural beauty that surrounded them. Among this land was a village that had always been at peace with its neighbors, but one day, a great evil lurked in the forest. A fierce dragon appeared, causing panic and chaos in the surrounding areas. The villagers called upon the help of a brave knight, Sir Arthur, who quickly set out on a quest to defeat the beast. Arthur rode his trusty steed, a magnificent black stallion named Enzo, towards the forest. As he approached, he heard the cries of the villagers and knew that it was time to action. He dismounted from Enzo, donned his armor, and prepared to face the beast. As he drew closer to the dragon's lair, Arthur could see the size and power of the creature. The blazing sun illuminated the scene as the dragon breathed flames into the sky. With a deft move, Arthur used his sword to cut through the dragon's scales, striking down the monstrous beast. The villagers rushed to the scene, cheering and crying out with joy. Sir Arthur stood tall amidst the heroism, and together they fought against the dragon, determined to save the village from destruction. With the dragon defeated, the villagers celebrated the victory. But as the sun began to set, a new threat emerged. A group of bandits had come to pillage the area. The villagers realized that they would have to work together to defend themselves and their homes. Arthur led the villagers in a ferocious defense, using his sword to slay the bandits one by one.</p>",
+        "timestamp": "2025-10-25T15:10:15.788604",
+        "concepts_referenced": []
+      },
+      {
+        "role": "user",
+        "content": "Who is the princess?",
+        "timestamp": "2025-10-25T15:11:50.788946"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>I don't have information about 'princess?' in this story. The story focuses on: Sir, Arthur, Dragon, Village, Knight. Please ask about concepts that appear in the story.</p>",
+        "timestamp": "2025-10-25T15:11:50.788946",
+        "concepts_referenced": []
+      },
+      {
+        "role": "user",
+        "content": "tell the story in indian style",
+        "timestamp": "2025-10-25T15:17:15.051400"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>Once upon a time, in a grand castle located deep within the mountains, there lived a fearless warrior named Arjun. His name was revered throughout all the kingdoms, and he was known for his loyalty, bravery, and devotion to his duty. One day, a fearsome serpent demon appeared before Arjun's palace, causing chaos and destruction in the surrounding villages. Arjun knew that he had to act fast if he wanted to save his kingdom from certain doom. He took his trusted sword, Khanda, and prepared himself for battle. He recited prayers to the gods and made offerings of flowers and incense, hoping to gain their favor. As he galloped through the forest, he saw the demons coming towards the village. Arjun quickly drew his sword and charged forward, ready to defend his people. The battle raged on, with Arjun fighting bravely alongside his trusty mount. The two demons fought fiercely, with Arjun dodging their attacks and striking them with his sword. Finally, after an epic struggle, Arjun emerged victorious, defeating the demon and saving the village. The villagers celebrated the victory, praising Arjun as a hero chosen by the gods. They thanked him for his bravery and asked for his services once again. But for Arjun, his duty was not done yet. He knew that he had to continue protecting his people and their way of life, no matter what challenges lay ahead. Years went by, and Arjun continued to lead his people with strength and wisdom. He was revered by his subjects and respected by all those who knew him. But even as he grew older, Arjun never forgot his roots. He remembered the stories his parents told him about the great battles of y.</p>",
+        "timestamp": "2025-10-25T15:17:15.051400",
+        "concepts_referenced": []
+      },
+      {
+        "role": "user",
+        "content": "tell the story in Japanese style",
+        "timestamp": "2025-10-25T15:19:36.147763"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>Japanese Cultural Style Retelling: \"Long ago in feudal Japan, a noble samurai warrior named Katsumi lived in a majestic castle perched high upon a mountain peak. One day, a fearsome dragon emerged from the dense forests surrounding the village below. Katsumi, sworn to protect the innocent and uphold the sacred codes of the Bushido warrior code, knew that he had to act fast. He donned his legendary samurai armor and rode out to face the beast. With unwavering honor and discipline, Katsumi charged towards the dragon with unmatched ferocity. His blazing sword sliced through the air like a flash of lightning, leaving nothing but destruction in its wake. The villagers watched in awe as their leader bravely faced one of the most formidable creatures ever known. As the sun began to set, Katsumi's valor was rewarded. The dragon's rage subsided and it turned to flee, its scales shimmering in the moonlight. The villagers celebrated their hero's victory and Katsumi received a heartfelt thanks from them. Years later, Katsumi's legacy lived on in the village. They still remembered the day when he saved them from certain doom. His name became synonymous with bravery, loyalty, and devotion to duty. The village held a special place in his heart, and he always returned to visit once in a while, reminding them of their resilience and the importance of standing up for what is right.\".</p>",
+        "timestamp": "2025-10-25T15:19:36.147763",
+        "concepts_referenced": []
+      },
+      {
+        "role": "user",
+        "content": "What happens after the dragon is defeated?",
+        "timestamp": "2025-10-25T15:21:48.118238"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>I don't have information about 'happens' in this story. The story focuses on: Sir, Arthur, Dragon, Village, Knight. Please ask about concepts that appear in the story.</p><p><small><em>Referenced concepts: Dragon</em></small></p>",
+        "timestamp": "2025-10-25T15:21:48.118238",
+        "concepts_referenced": [
+          "dragon"
+        ]
+      }
+    ],
+    "story_text": "A brave knight named Sir Arthur lived in a grand castle. One day, a fierce dragon attacked the nearby village. Sir Arthur grabbed his enchanted sword and rode his horse to fight the dragon. After an epic battle, the knight defeated the dragon and saved the village.",
+    "graph_data": {
+      "nodes": [
+        {
+          "id": "sir",
+          "label": "Sir",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arthur",
+          "label": "Arthur",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "dragon",
+          "label": "Dragon",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Western/Eastern Mythology"
+        },
+        {
+          "id": "village",
+          "label": "Village",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "knight",
+          "label": "Knight",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Western Medieval"
+        },
+        {
+          "id": "attacked",
+          "label": "Attacked",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grabbed",
+          "label": "Grabbed",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "encik",
+          "label": "encik",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "king_arthur",
+          "label": "King Arthur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "chester_alan_arthur",
+          "label": "Chester Alan Arthur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arzur",
+          "label": "arzur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "label": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arthuriana",
+          "label": "arthuriana",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_dragon",
+          "label": "A dragon",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythical_beast",
+          "label": "a mythical beast",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "breathe_fire",
+          "label": "breathe fire",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythological_reptilian_monster",
+          "label": "a mythological reptilian monster",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "stw\u00f3r",
+          "label": "stw\u00f3r",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "hetera",
+          "label": "hetera",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_village",
+          "label": "a village",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "africa",
+          "label": "africa",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_town",
+          "label": "a town",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_countryside",
+          "label": "a countryside",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "town",
+          "label": "town",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "borgata",
+          "label": "borgata",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_knight",
+          "label": "A knight",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "ride_a_horse",
+          "label": "ride a horse",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "jousting",
+          "label": "Jousting",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_castle",
+          "label": "a castle",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_chess_set",
+          "label": "a chess set",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_historical_novel",
+          "label": "a historical novel",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "dimicatus",
+          "label": "dimicatus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "are_attacked",
+          "label": "are attacked",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "fight_back",
+          "label": "fight back",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "unattackable",
+          "label": "unattackable",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "incursatus",
+          "label": "incursatus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "aggressus",
+          "label": "aggressus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grab",
+          "label": "grab",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "prehensus",
+          "label": "prehensus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "chickenhead",
+          "label": "chickenhead",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "rapiendus",
+          "label": "rapiendus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        }
+      ],
+      "edges": [
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "encik",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "encik",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "arthur",
+          "target": "king_arthur",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "arthur",
+          "target": "chester_alan_arthur",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "arthur",
+          "target": "arzur",
+          "label": "Synonym",
+          "weight": 1.0
+        },
+        {
+          "source": "arthur",
+          "target": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "label": "Synonym",
+          "weight": 1.0
+        },
+        {
+          "source": "arthuriana",
+          "target": "arthur",
+          "label": "DerivedFrom",
+          "weight": 1.0
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythical_beast",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "breathe_fire",
+          "label": "CapableOf",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythological_reptilian_monster",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "stw\u00f3r",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "hetera",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "a_village",
+          "target": "africa",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_village",
+          "target": "a_town",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_village",
+          "target": "a_countryside",
+          "label": "AtLocation",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "village",
+          "target": "town",
+          "label": "RelatedTo",
+          "weight": 2.1918029108475974
+        },
+        {
+          "source": "borgata",
+          "target": "village",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "a_knight",
+          "target": "ride_a_horse",
+          "label": "CapableOf",
+          "weight": 5.291502622129181
+        },
+        {
+          "source": "a_knight",
+          "target": "jousting",
+          "label": "UsedFor",
+          "weight": 4.47213595499958
+        },
+        {
+          "source": "a_knight",
+          "target": "a_castle",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_knight",
+          "target": "a_chess_set",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_knight",
+          "target": "a_historical_novel",
+          "label": "AtLocation",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "dimicatus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "are_attacked",
+          "target": "fight_back",
+          "label": "HasSubevent",
+          "weight": 1.0
+        },
+        {
+          "source": "unattackable",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "incursatus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "aggressus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "FormOf",
+          "weight": 1.0
+        },
+        {
+          "source": "prehensus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "chickenhead",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "rapiendus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        }
+      ],
+      "stats": {
+        "total_nodes": 41,
+        "main_concepts": 7,
+        "related_concepts": 34,
+        "total_edges": 35,
+        "depth": 2
+      }
+    },
+    "metadata": {
+      "concepts": [
+        "sir",
+        "arthur",
+        "dragon",
+        "village",
+        "knight",
+        "attacked",
+        "grabbed"
+      ],
+      "categorized": {
+        "entities": [
+          "sir",
+          "arthur"
+        ],
+        "themes": [],
+        "objects": [
+          "dragon",
+          "village",
+          "knight",
+          "attacked",
+          "grabbed"
+        ]
+      },
+      "cultural_context": {
+        "dominant_culture": "Western/Eastern Mythology",
+        "markers": [
+          {
+            "concept": "dragon",
+            "culture": "Western/Eastern Mythology"
+          },
+          {
+            "concept": "knight",
+            "culture": "Western Medieval"
+          }
+        ]
+      },
+      "graph_stats": {
+        "total_nodes": 41,
+        "main_concepts": 7,
+        "related_concepts": 34,
+        "total_edges": 35,
+        "depth": 2
+      },
+      "analyzed": true
+    }
+  },
+  "session_1761627677302": {
+    "id": "session_1761627677302",
+    "name": "Story 7",
+    "created": "2025-10-28T10:31:17.302937",
+    "messages": [
+      {
+        "role": "user",
+        "content": "A brave knight named Sir Arthur lived in a grand castle. One day, a fierce dragon attacked the nearby village. Sir Arthur grabbed his enchanted sword and rode his horse to fight the dragon. After an epic battle, the knight defeated the dragon and saved the village.",
+        "timestamp": "2025-10-28T10:31:21.958341"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Analysis Complete \u2705</h3>\n<strong>Main Entities:</strong>\n<ul><li>Sir</li><li>Arthur</li></ul>\n<strong>Key Objects / Concepts:</strong>\n<ul><li>Dragon</li><li>Village</li><li>Knight</li><li>Attacked</li><li>Grabbed</li></ul>\n<p><strong>Cultural Context:</strong> Western/Eastern Mythology</p>\n<p><strong>Knowledge Graph:</strong> 41 nodes, 35 relationships, depth 2.</p>\n<p>Use the <em>Knowledge Graph</em> tab to explore connections visually. You can now ask me questions about the story!</p>",
+        "timestamp": "2025-10-28T10:31:21.965861",
+        "concepts": [
+          "sir",
+          "arthur",
+          "dragon",
+          "village",
+          "knight",
+          "attacked",
+          "grabbed"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "tell the story in indian style",
+        "timestamp": "2025-10-28T10:33:41.256803"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>In ancient India, a valiant warrior named Arjun lived in a magnificent palace adorned with golden domes. One day, a fearsome naga serpent demon rose from the depths and attacked a peaceful village. Arjun, reminding himself of his sacred duty to protect the innocent, prepared for battle. He took his blessed khanda sword, recited prayers to the gods, and mounted his white stallion. The naga demon's army was vast, but Arjun knew that only a single warrior could face it head-on. He set out on a perilous journey, riding through dense forests and across treacherous mountains. As he neared the village, Arjun saw the terrified faces of its inhabitants. They were grateful to see their king return, but they also feared the monster that had attacked their homes. Arjun knew that he had to be strong and decisive if he wanted to save them. With all his might, Arjun charged at the naga demon. The creature roared in anger, but Arjun dodged its attacks and struck back with his sword. The blade glinted in the sunlight, and the naga demon howled in pain. Arjun's valor inspired the villagers, and they cheered as he emerged victorious. He knew that the victory was not just for himself but for the entire village, whose protection he had sworn to uphold. The naga demon was finally defeated, and the village was safe once again. Arjun rode back to the palace, his heart full of gratitude and pride. He knew that his deeds would be remembered forever, and that he had fulfilled his sacred duty to protect his people. The people of the village rejoiced, knowing that.</p>",
+        "timestamp": "2025-10-28T10:33:41.257379",
+        "concepts_referenced": []
+      }
+    ],
+    "story_text": "A brave knight named Sir Arthur lived in a grand castle. One day, a fierce dragon attacked the nearby village. Sir Arthur grabbed his enchanted sword and rode his horse to fight the dragon. After an epic battle, the knight defeated the dragon and saved the village.",
+    "graph_data": {
+      "nodes": [
+        {
+          "id": "sir",
+          "label": "Sir",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arthur",
+          "label": "Arthur",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "dragon",
+          "label": "Dragon",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Western/Eastern Mythology"
+        },
+        {
+          "id": "village",
+          "label": "Village",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "knight",
+          "label": "Knight",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Western Medieval"
+        },
+        {
+          "id": "attacked",
+          "label": "Attacked",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grabbed",
+          "label": "Grabbed",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "encik",
+          "label": "encik",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "king_arthur",
+          "label": "King Arthur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "chester_alan_arthur",
+          "label": "Chester Alan Arthur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arzur",
+          "label": "arzur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "label": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arthuriana",
+          "label": "arthuriana",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_dragon",
+          "label": "A dragon",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythical_beast",
+          "label": "a mythical beast",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "breathe_fire",
+          "label": "breathe fire",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythological_reptilian_monster",
+          "label": "a mythological reptilian monster",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "stw\u00f3r",
+          "label": "stw\u00f3r",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "hetera",
+          "label": "hetera",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_village",
+          "label": "a village",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "africa",
+          "label": "africa",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_town",
+          "label": "a town",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_countryside",
+          "label": "a countryside",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "town",
+          "label": "town",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "borgata",
+          "label": "borgata",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_knight",
+          "label": "A knight",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "ride_a_horse",
+          "label": "ride a horse",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "jousting",
+          "label": "Jousting",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_castle",
+          "label": "a castle",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_chess_set",
+          "label": "a chess set",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_historical_novel",
+          "label": "a historical novel",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "dimicatus",
+          "label": "dimicatus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "are_attacked",
+          "label": "are attacked",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "fight_back",
+          "label": "fight back",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "unattackable",
+          "label": "unattackable",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "incursatus",
+          "label": "incursatus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "aggressus",
+          "label": "aggressus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grab",
+          "label": "grab",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "prehensus",
+          "label": "prehensus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "chickenhead",
+          "label": "chickenhead",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "rapiendus",
+          "label": "rapiendus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        }
+      ],
+      "edges": [
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "encik",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "encik",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "arthur",
+          "target": "king_arthur",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "arthur",
+          "target": "chester_alan_arthur",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "arthur",
+          "target": "arzur",
+          "label": "Synonym",
+          "weight": 1.0
+        },
+        {
+          "source": "arthur",
+          "target": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "label": "Synonym",
+          "weight": 1.0
+        },
+        {
+          "source": "arthuriana",
+          "target": "arthur",
+          "label": "DerivedFrom",
+          "weight": 1.0
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythical_beast",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "breathe_fire",
+          "label": "CapableOf",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythological_reptilian_monster",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "stw\u00f3r",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "hetera",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "a_village",
+          "target": "africa",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_village",
+          "target": "a_town",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_village",
+          "target": "a_countryside",
+          "label": "AtLocation",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "village",
+          "target": "town",
+          "label": "RelatedTo",
+          "weight": 2.1918029108475974
+        },
+        {
+          "source": "borgata",
+          "target": "village",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "a_knight",
+          "target": "ride_a_horse",
+          "label": "CapableOf",
+          "weight": 5.291502622129181
+        },
+        {
+          "source": "a_knight",
+          "target": "jousting",
+          "label": "UsedFor",
+          "weight": 4.47213595499958
+        },
+        {
+          "source": "a_knight",
+          "target": "a_castle",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_knight",
+          "target": "a_chess_set",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_knight",
+          "target": "a_historical_novel",
+          "label": "AtLocation",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "dimicatus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "are_attacked",
+          "target": "fight_back",
+          "label": "HasSubevent",
+          "weight": 1.0
+        },
+        {
+          "source": "unattackable",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "incursatus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "aggressus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "FormOf",
+          "weight": 1.0
+        },
+        {
+          "source": "prehensus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "chickenhead",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "rapiendus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        }
+      ],
+      "stats": {
+        "total_nodes": 41,
+        "main_concepts": 7,
+        "related_concepts": 34,
+        "total_edges": 35,
+        "depth": 2
+      }
+    },
+    "metadata": {
+      "concepts": [
+        "sir",
+        "arthur",
+        "dragon",
+        "village",
+        "knight",
+        "attacked",
+        "grabbed"
+      ],
+      "categorized": {
+        "entities": [
+          "sir",
+          "arthur"
+        ],
+        "themes": [],
+        "objects": [
+          "dragon",
+          "village",
+          "knight",
+          "attacked",
+          "grabbed"
+        ]
+      },
+      "cultural_context": {
+        "dominant_culture": "Western/Eastern Mythology",
+        "markers": [
+          {
+            "concept": "dragon",
+            "culture": "Western/Eastern Mythology"
+          },
+          {
+            "concept": "knight",
+            "culture": "Western Medieval"
+          }
+        ]
+      },
+      "graph_stats": {
+        "total_nodes": 41,
+        "main_concepts": 7,
+        "related_concepts": 34,
+        "total_edges": 35,
+        "depth": 2
+      },
+      "analyzed": true
+    }
+  },
+  "session_1761628179800": {
+    "id": "session_1761628179800",
+    "name": "Story 3",
+    "created": "2025-10-28T10:39:39.800137",
+    "messages": [
+      {
+        "role": "user",
+        "content": "A brave knight named Sir Arthur lived in a grand castle. One day, a fierce dragon attacked the nearby village. Sir Arthur grabbed his enchanted sword and rode his horse to fight the dragon. After an epic battle, the knight defeated the dragon and saved the village.",
+        "timestamp": "2025-10-28T10:40:56.928012"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Analysis Complete \u2705</h3>\n<strong>Main Entities:</strong>\n<ul><li>Sir</li><li>Arthur</li></ul>\n<strong>Key Objects / Concepts:</strong>\n<ul><li>Dragon</li><li>Village</li><li>Knight</li><li>Attacked</li><li>Grabbed</li></ul>\n<p><strong>Cultural Context:</strong> Western/Eastern Mythology</p>\n<p><strong>Knowledge Graph:</strong> 41 nodes, 35 relationships, depth 2.</p>\n<p>Use the <em>Knowledge Graph</em> tab to explore connections visually. You can now ask me questions about the story!</p>",
+        "timestamp": "2025-10-28T10:40:56.932841",
+        "concepts": [
+          "sir",
+          "arthur",
+          "dragon",
+          "village",
+          "knight",
+          "attacked",
+          "grabbed"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "who is the princess",
+        "timestamp": "2025-10-28T10:43:00.349263"
+      },
+      {
+        "role": "assistant",
+        "content": "<h3>Answer</h3><p>Sir Arthur, a brave knight from a grand castle, encountered a fierce dragon that had attacked a nearby village. The knight grabbed his enchanted sword and rode his horse to save the village from destruction. The dragon was defeated, saving the villagers from certain death. \n\nAs per the given context, Sir Arthur was a brave knight who rode his horse to save the village from destruction. This fact was mentioned in the story.\n\nIn regards to the princess, there is no explicit mention of her in the story. However, she may have been mentioned as part of the background information regarding the dragon attack and Sir Arthur's heroic deeds. She could also be a secondary character in the story who plays a role in the final conflict between Sir Arthur and the dragon.\n\nTherefore, it is safe to assume that the princess is not present in the story.\n\nTo summarize, Sir Arthur rode his horse to rescue the village from the dragon's attack, saving the villagers from certain death. The dragon was defeated, and the villagers were grateful for his bravery. There is no further information about the princess beyond her absence.</p>",
+        "timestamp": "2025-10-28T10:43:00.349263",
+        "concepts_referenced": []
+      }
+    ],
+    "story_text": "A brave knight named Sir Arthur lived in a grand castle. One day, a fierce dragon attacked the nearby village. Sir Arthur grabbed his enchanted sword and rode his horse to fight the dragon. After an epic battle, the knight defeated the dragon and saved the village.",
+    "graph_data": {
+      "nodes": [
+        {
+          "id": "sir",
+          "label": "Sir",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arthur",
+          "label": "Arthur",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "dragon",
+          "label": "Dragon",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Western/Eastern Mythology"
+        },
+        {
+          "id": "village",
+          "label": "Village",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "knight",
+          "label": "Knight",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Western Medieval"
+        },
+        {
+          "id": "attacked",
+          "label": "Attacked",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grabbed",
+          "label": "Grabbed",
+          "type": "main",
+          "from_story": true,
+          "size": 70,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "encik",
+          "label": "encik",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "king_arthur",
+          "label": "King Arthur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "chester_alan_arthur",
+          "label": "Chester Alan Arthur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arzur",
+          "label": "arzur",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "label": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "arthuriana",
+          "label": "arthuriana",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_dragon",
+          "label": "A dragon",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythical_beast",
+          "label": "a mythical beast",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "breathe_fire",
+          "label": "breathe fire",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_mythological_reptilian_monster",
+          "label": "a mythological reptilian monster",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "stw\u00f3r",
+          "label": "stw\u00f3r",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "hetera",
+          "label": "hetera",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_village",
+          "label": "a village",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "africa",
+          "label": "africa",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_town",
+          "label": "a town",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_countryside",
+          "label": "a countryside",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "town",
+          "label": "town",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "borgata",
+          "label": "borgata",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_knight",
+          "label": "A knight",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "ride_a_horse",
+          "label": "ride a horse",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "jousting",
+          "label": "Jousting",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_castle",
+          "label": "a castle",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_chess_set",
+          "label": "a chess set",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "a_historical_novel",
+          "label": "a historical novel",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "dimicatus",
+          "label": "dimicatus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "are_attacked",
+          "label": "are attacked",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "fight_back",
+          "label": "fight back",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "unattackable",
+          "label": "unattackable",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "incursatus",
+          "label": "incursatus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "aggressus",
+          "label": "aggressus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "grab",
+          "label": "grab",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "prehensus",
+          "label": "prehensus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "chickenhead",
+          "label": "chickenhead",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        },
+        {
+          "id": "rapiendus",
+          "label": "rapiendus",
+          "type": "related",
+          "from_story": false,
+          "size": 50,
+          "cultural_context": "Universal"
+        }
+      ],
+      "edges": [
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "encik",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "encik",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "sir",
+          "target": "sir",
+          "label": "Synonym",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "arthur",
+          "target": "king_arthur",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "arthur",
+          "target": "chester_alan_arthur",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "arthur",
+          "target": "arzur",
+          "label": "Synonym",
+          "weight": 1.0
+        },
+        {
+          "source": "arthur",
+          "target": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+          "label": "Synonym",
+          "weight": 1.0
+        },
+        {
+          "source": "arthuriana",
+          "target": "arthur",
+          "label": "DerivedFrom",
+          "weight": 1.0
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythical_beast",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "breathe_fire",
+          "label": "CapableOf",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_dragon",
+          "target": "a_mythological_reptilian_monster",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "stw\u00f3r",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "hetera",
+          "target": "dragon",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "a_village",
+          "target": "africa",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_village",
+          "target": "a_town",
+          "label": "IsA",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "a_village",
+          "target": "a_countryside",
+          "label": "AtLocation",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "village",
+          "target": "town",
+          "label": "RelatedTo",
+          "weight": 2.1918029108475974
+        },
+        {
+          "source": "borgata",
+          "target": "village",
+          "label": "Synonym",
+          "weight": 2.0
+        },
+        {
+          "source": "a_knight",
+          "target": "ride_a_horse",
+          "label": "CapableOf",
+          "weight": 5.291502622129181
+        },
+        {
+          "source": "a_knight",
+          "target": "jousting",
+          "label": "UsedFor",
+          "weight": 4.47213595499958
+        },
+        {
+          "source": "a_knight",
+          "target": "a_castle",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_knight",
+          "target": "a_chess_set",
+          "label": "AtLocation",
+          "weight": 3.4641016151377544
+        },
+        {
+          "source": "a_knight",
+          "target": "a_historical_novel",
+          "label": "AtLocation",
+          "weight": 2.82842712474619
+        },
+        {
+          "source": "dimicatus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "are_attacked",
+          "target": "fight_back",
+          "label": "HasSubevent",
+          "weight": 1.0
+        },
+        {
+          "source": "unattackable",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "incursatus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "aggressus",
+          "target": "attacked",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "FormOf",
+          "weight": 1.0
+        },
+        {
+          "source": "prehensus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "chickenhead",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "grabbed",
+          "target": "grab",
+          "label": "RelatedTo",
+          "weight": 1.0
+        },
+        {
+          "source": "rapiendus",
+          "target": "grabbed",
+          "label": "RelatedTo",
+          "weight": 1.0
+        }
+      ],
+      "stats": {
+        "total_nodes": 41,
+        "main_concepts": 7,
+        "related_concepts": 34,
+        "total_edges": 35,
+        "depth": 2
+      }
+    },
+    "metadata": {
+      "concepts": [
+        "sir",
+        "arthur",
+        "dragon",
+        "village",
+        "knight",
+        "attacked",
+        "grabbed"
+      ],
+      "categorized": {
+        "entities": [
+          "sir",
+          "arthur"
+        ],
+        "themes": [],
+        "objects": [
+          "dragon",
+          "village",
+          "knight",
+          "attacked",
+          "grabbed"
+        ]
+      },
+      "cultural_context": {
+        "dominant_culture": "Western/Eastern Mythology",
+        "markers": [
+          {
+            "concept": "dragon",
+            "culture": "Western/Eastern Mythology"
+          },
+          {
+            "concept": "knight",
+            "culture": "Western Medieval"
+          }
+        ]
+      },
+      "graph_stats": {
+        "total_nodes": 41,
+        "main_concepts": 7,
+        "related_concepts": 34,
+        "total_edges": 35,
+        "depth": 2
+      },
+      "analyzed": true
+    }
+  }
+}

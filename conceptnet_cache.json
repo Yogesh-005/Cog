@@ -1,0 +1,388 @@
+{
+  "sir_5": [
+    {
+      "start": "sir",
+      "end": "Sir",
+      "relation": "Synonym",
+      "weight": 3.4641016151377544
+    },
+    {
+      "start": "encik",
+      "end": "Sir",
+      "relation": "Synonym",
+      "weight": 3.4641016151377544
+    },
+    {
+      "start": "encik",
+      "end": "Sir",
+      "relation": "Synonym",
+      "weight": 3.4641016151377544
+    },
+    {
+      "start": "Sir",
+      "end": "Sir",
+      "relation": "Synonym",
+      "weight": 3.4641016151377544
+    },
+    {
+      "start": "Sir",
+      "end": "Sir",
+      "relation": "Synonym",
+      "weight": 3.4641016151377544
+    }
+  ],
+  "enchanted_5": [
+    {
+      "start": "encantado",
+      "end": "enchanted",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "enchant\u00e9",
+      "end": "enchanted",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "enchanted",
+      "end": "ensorcelled",
+      "relation": "SimilarTo",
+      "weight": 2.0
+    },
+    {
+      "start": "fatato",
+      "end": "enchanted",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "enchant\u00e9",
+      "end": "enchanted",
+      "relation": "Synonym",
+      "weight": 2.0
+    }
+  ],
+  "retrieve_5": [
+    {
+      "start": "retrieve",
+      "end": "bring",
+      "relation": "MannerOf",
+      "weight": 2.0
+    },
+    {
+      "start": "mengutip",
+      "end": "retrieve",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "\u53d6\u308a\u3060\u3059",
+      "end": "retrieve",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "noutaa",
+      "end": "retrieve",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "retrieve",
+      "end": "remember",
+      "relation": "Synonym",
+      "weight": 2.0
+    }
+  ],
+  "kingdom_5": [
+    {
+      "start": "a kingdom",
+      "end": "europe",
+      "relation": "AtLocation",
+      "weight": 4.47213595499958
+    },
+    {
+      "start": "empire",
+      "end": "kingdom",
+      "relation": "RelatedTo",
+      "weight": 3.288160580020386
+    },
+    {
+      "start": "A king",
+      "end": "a kingdom",
+      "relation": "HasA",
+      "weight": 2.82842712474619
+    },
+    {
+      "start": "a kingdom",
+      "end": "ruled by a king",
+      "relation": "ReceivesAction",
+      "weight": 2.82842712474619
+    },
+    {
+      "start": "a kingdom",
+      "end": "a monarchy",
+      "relation": "AtLocation",
+      "weight": 2.82842712474619
+    }
+  ],
+  "ventured_5": [
+    {
+      "start": "ventured",
+      "end": "venture",
+      "relation": "FormOf",
+      "weight": 1.0
+    },
+    {
+      "start": "ventured",
+      "end": "venture",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    },
+    {
+      "start": "unventured",
+      "end": "ventured",
+      "relation": "DerivedFrom",
+      "weight": 1.0
+    },
+    {
+      "start": "audendus",
+      "end": "ventured",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    },
+    {
+      "start": "ausus",
+      "end": "ventured",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    }
+  ],
+  "arthur_5": [
+    {
+      "start": "Arthur",
+      "end": "King Arthur",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "Arthur",
+      "end": "Chester Alan Arthur",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "arthur",
+      "end": "arzur",
+      "relation": "Synonym",
+      "weight": 1.0
+    },
+    {
+      "start": "arthur",
+      "end": "\u03b1\u03c1\u03b8\u03bf\u03c5\u03c1\u03bf\u03c3",
+      "relation": "Synonym",
+      "weight": 1.0
+    },
+    {
+      "start": "arthuriana",
+      "end": "arthur",
+      "relation": "DerivedFrom",
+      "weight": 1.0
+    }
+  ],
+  "brave_5": [
+    {
+      "start": "modig",
+      "end": "brave",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "gagah berani",
+      "end": "brave",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "\u96c4\u96c4\u3057\u3044",
+      "end": "brave",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "juna\u010dan",
+      "end": "brave",
+      "relation": "RelatedTo",
+      "weight": 2.0
+    },
+    {
+      "start": "brave",
+      "end": "lionhearted",
+      "relation": "SimilarTo",
+      "weight": 2.0
+    }
+  ],
+  "a brave knight__5": [],
+  "the enchanted sword__5": [],
+  "grabbed_5": [
+    {
+      "start": "grabbed",
+      "end": "grab",
+      "relation": "FormOf",
+      "weight": 1.0
+    },
+    {
+      "start": "prehensus",
+      "end": "grabbed",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    },
+    {
+      "start": "chickenhead",
+      "end": "grabbed",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    },
+    {
+      "start": "grabbed",
+      "end": "grab",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    },
+    {
+      "start": "rapiendus",
+      "end": "grabbed",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    }
+  ],
+  "dragon_5": [
+    {
+      "start": "A dragon",
+      "end": "a mythical beast",
+      "relation": "IsA",
+      "weight": 2.82842712474619
+    },
+    {
+      "start": "a dragon",
+      "end": "breathe fire",
+      "relation": "CapableOf",
+      "weight": 2.82842712474619
+    },
+    {
+      "start": "A dragon",
+      "end": "a mythological reptilian monster",
+      "relation": "IsA",
+      "weight": 2.82842712474619
+    },
+    {
+      "start": "stw\u00f3r",
+      "end": "dragon",
+      "relation": "Synonym",
+      "weight": 2.0
+    },
+    {
+      "start": "hetera",
+      "end": "dragon",
+      "relation": "Synonym",
+      "weight": 2.0
+    }
+  ],
+  "attacked_5": [
+    {
+      "start": "dimicatus",
+      "end": "attacked",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    },
+    {
+      "start": "are attacked",
+      "end": "fight back",
+      "relation": "HasSubevent",
+      "weight": 1.0
+    },
+    {
+      "start": "unattackable",
+      "end": "attacked",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    },
+    {
+      "start": "incursatus",
+      "end": "attacked",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    },
+    {
+      "start": "aggressus",
+      "end": "attacked",
+      "relation": "RelatedTo",
+      "weight": 1.0
+    }
+  ],
+  "knight_5": [
+    {
+      "start": "A knight",
+      "end": "ride a horse",
+      "relation": "CapableOf",
+      "weight": 5.291502622129181
+    },
+    {
+      "start": "a knight",
+      "end": "Jousting",
+      "relation": "UsedFor",
+      "weight": 4.47213595499958
+    },
+    {
+      "start": "a knight",
+      "end": "a castle",
+      "relation": "AtLocation",
+      "weight": 3.4641016151377544
+    },
+    {
+      "start": "a knight",
+      "end": "a chess set",
+      "relation": "AtLocation",
+      "weight": 3.4641016151377544
+    },
+    {
+      "start": "a knight",
+      "end": "a historical novel",
+      "relation": "AtLocation",
+      "weight": 2.82842712474619
+    }
+  ],
+  "village_5": [
+    {
+      "start": "a village",
+      "end": "africa",
+      "relation": "AtLocation",
+      "weight": 3.4641016151377544
+    },
+    {
+      "start": "A village",
+      "end": "a town",
+      "relation": "IsA",
+      "weight": 2.82842712474619
+    },
+    {
+      "start": "a village",
+      "end": "a countryside",
+      "relation": "AtLocation",
+      "weight": 2.82842712474619
+    },
+    {
+      "start": "village",
+      "end": "town",
+      "relation": "RelatedTo",
+      "weight": 2.1918029108475974
+    },
+    {
+      "start": "borgata",
+      "end": "village",
+      "relation": "Synonym",
+      "weight": 2.0
+    }
+  ]
+}
